@@ -1,11 +1,12 @@
 ---
-title: Introducing Visual Open Authoring
+title: Introducing Visual Open Authoring....
 date: '2020-03-09T07:00:00.000Z'
 author: Scott Gallant
 draft: false
 consumes: null
 next: /blog/tinacms-ui-whats-next
 prev: /blog/gatsby-tina-101
+last_edited: '2021-03-15T04:24:17.601Z'
 ---
 
 We're focused on improving the independent web as a whole. We want to craft tools that help people build better sites and create better content.
